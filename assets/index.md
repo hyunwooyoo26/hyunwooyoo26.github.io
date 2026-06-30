@@ -3,51 +3,91 @@ layout: default
 title: Home
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
 <div class="profile-layout">
 
-<div class="sidebar">
-  <img src="/assets/img/profile.jpg" class="profile-img">
+<aside class="sidebar">
+  <img src="{{ '/assets/img/profile.jpg' | relative_url }}" class="profile-img" alt="Profile photo">
 
   <h1>Your Name</h1>
-  <p>PhD Student at University Name</p>
+  <p class="position">PhD Student at University Name</p>
 
-  <p><a href="mailto:you@email.com">Email</a></p>
-  <p><a href="https://scholar.google.com/">Google Scholar</a></p>
-  <p><a href="https://github.com/username">GitHub</a></p>
-  <p><a href="https://linkedin.com/in/username">LinkedIn</a></p>
-</div>
+  <nav class="links">
+    <a href="mailto:you@email.com">Email</a>
+    <a href="https://scholar.google.com/">Google Scholar</a>
+    <a href="https://github.com/username">GitHub</a>
+    <a href="https://linkedin.com/in/username">GitHub</a>
+    <a href="https://linkedin.com/in/username">LinkedIn</a>
+  </nav>
+</aside>
 
-<div class="content">
+<main class="content">
 
-## About
+<section>
+  <h2>About</h2>
 
-Hi, I’m a PhD student at **University Name**, advised by Prof. Advisor Name.  
-My research focuses on making large language models more reliable, and practical.
+  <p>
+    Hi, I’m an incoming PhD student at
+    <a href="#">University Name</a>, advised by Prof.
+    <a href="#">Advisor Name</a>. My research focuses on making large language
+    models more efficient and reliable.
+  </p>
 
-Previously, I worked as a research scientist at Company Name, where I worked on applied LLM systems, retrieval, and semantic parsing.
+  <p>
+    Previously, I worked as a research scientist at
+    <a href="#">Company Name</a>, where I worked on applied LLM systems,
+    information retrieval, and semantic parsing.
+  </p>
 
-My research interests include:
+  <p>
+    My research interests lie in making large language models more
+    <em>efficient</em> and <em>practical</em>:
+  </p>
 
-- **Efficient training and inference** for large language models
-- **Real-world impact**, including agents, retrieval, and scientific discovery
+  <ul>
+    <li><strong>Efficient training and inference</strong> methods for LLMs.</li>
+    <li><strong>Real-world impact</strong>, including agents, retrieval, and scientific discovery.</li>
+  </ul>
+</section>
 
-## Work Experience
+<section>
+  <h2>Work Experience</h2>
 
-| | |
-|---|---|
-| ** Research**<br>Research Intern | 2024.09 – 2025.06 |
-| ** Research**<br>Research Scientist | 2022.10 – 2023.02 |
-| **soft**<br>Research Scientist | 2019.07 – 2022.10 |
+  <div class="experience">
+    <div>
+      <strong> Research</strong><br>
+      Research Intern
+    </div>
+    <div class="meta">
+      2022.10 – 2023.02<br>
+      Seoul, Korea
+    </div>
+  </div>
 
-## Publications
+  <div class="experience">
+    <div>
+      <strong> Research</strong><br>
+      Research Scientist
+    </div>
+    <div class="meta">
+      2019.07 – 2022.10<br>
+      Seongnam, Korea
+    </div>
+  </div>
+</section>
 
-### Selected
+<section>
+  <h2>Publications</h2>
 
-**Paper Title: Dynamic Mixture Optimization of Instruction Tuning Collections**  
-Your Name, Coauthor A, Coauthor B  
-*ACL 2026 Findings*  
-[Paper](#)
+  <article class="paper">
+    <h3>Paper Title: Dynamic Mixture Optimization of Instruction Tuning Collections</h3>
+    <p><strong>Your Name</strong>, Coauthor A, Coauthor B</p>
+    <p class="venue">ACL 2026 Findings</p>
+    <a class="button" href="#">Paper</a>
+  </article>
+</section>
 
-</div>
+</main>
 
 </div>
