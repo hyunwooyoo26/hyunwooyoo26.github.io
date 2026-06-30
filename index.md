@@ -77,7 +77,7 @@ title: Home
   <div class="experience">
     <div>
       <strong>Hyperlounge</strong><br>
-      Software Engineer, 
+      Software Engineer
     </div>
     <div class="meta">
       2022.10 – 2023.02<br>
@@ -88,7 +88,7 @@ title: Home
   <div class="experience">
     <div>
       <strong>TmaxSoft</strong><br>
-      Machine Learning Software Engineer, 
+      Machine Learning Software Engineer
     </div>
     <div class="meta">
       2019.07 – 2022.10<br>
@@ -98,79 +98,106 @@ title: Home
 </section>
 
 <section>
+  <section>
   <h2>Selected Publications</h2>
 
-  <article class="paper">
-    <h3>Cross-Modal Generative Augmentation for Multimodal Biological Classification</h3>
-    <p><strong>H. Yoo</strong>, E. Soufleri, D. Ravikumar, and G. Rosen</p>
-    <p class="venue">TMLR, 2026</p>
-    <a class="button" href="#">Paper</a>
-  </article>
+  <ul class="pub-list">
+    <li class="pub-item">
+      <div class="pub-main">
+        <div class="pub-title">
+          Cross-Modal Generative Augmentation for Multimodal Biological Classification
+        </div>
+        <div class="pub-authors">
+          <strong>H. Yoo</strong>, E. Soufleri, D. Ravikumar, and G. Rosen
+        </div>
+        <div class="pub-venue">TMLR 2026</div>
+      </div>
+      <div class="pub-links">
+        <a href="#">Paper</a>
+      </div>
+    </li>
 
-  <article class="paper">
-    <h3>CliniCAST: Benchmarking Acoustic Grounding and Text Dominance in Medical Triage</h3>
-    <p>K. Kim*, <strong>H. Yoo*</strong>, J. Choi, G. Rosen, K. Kim, and B. Suh</p>
-    <p class="venue">Findings of ACL, 2026</p>
-    <p class="note">*Equal contribution</p>
-    <a class="button" href="#">Paper</a>
-  </article>
+    <li class="pub-item">
+      <div class="pub-main">
+        <div class="pub-title">
+          CliniCAST: Benchmarking Acoustic Grounding and Text Dominance in Medical Triage
+        </div>
+        <div class="pub-authors">
+          K. Kim*, <strong>H. Yoo*</strong>, J. Choi, K. Kim, G. Rosen, and B. Suh
+        </div>
+        <div>
+          <span class="pub-venue">ACL 2026 Findings</span>
+          <span class="pub-badge">Equal contribution</span>
+        </div>
+      </div>
+      <div class="pub-links">
+        <a href="#">Paper</a>
+      </div>
+    </li>
 
-  <article class="paper">
-    <h3>Visual Interference in Speech Evaluation: Cultural Asymmetry and Cross-Modal Bias in MLLMs</h3>
-    <p>K. Kim*, <strong>H. Yoo*</strong>, J. Choi, G. Rosen, and B. Suh</p>
-    <p class="venue">Findings of ACL, 2026</p>
-    <p class="note">*Equal contribution</p>
-    <a class="button" href="#">Paper</a>
-  </article>
+    <li class="pub-item">
+      <div class="pub-main">
+        <div class="pub-title">
+          Visual Interference in Speech Evaluation: Cultural Asymmetry and Cross-Modal Bias in MLLMs
+        </div>
+        <div class="pub-authors">
+          K. Kim*, <strong>H. Yoo*</strong>, J. Choi, G. Rosen, and B. Suh
+        </div>
+        <div>
+          <span class="pub-venue">ACL 2026 Findings</span>
+          <span class="pub-badge">Equal contribution</span>
+        </div>
+      </div>
+      <div class="pub-links">
+        <a href="#">Paper</a>
+      </div>
+    </li>
 
-  <article class="paper">
-    <h3>When Demographic Sensitivity Isn't What It Seems: Baseline-Aware Counterfactual Audits for Clinical NLP</h3>
-    <p><strong>H. Yoo</strong></p>
-    <p class="venue">BioNLP at ACL, 2026</p>
-    <a class="button" href="#">Paper</a>
-  </article>
+    <li class="pub-item">
+      <div class="pub-main">
+        <div class="pub-title">
+          When Demographic Sensitivity Isn't What It Seems: Baseline-Aware Counterfactual Audits for Clinical NLP
+        </div>
+        <div class="pub-authors">
+          <strong>H. Yoo</strong>
+        </div>
+        <div class="pub-venue">BioNLP Workshop at ACL 2026</div>
+      </div>
+      <div class="pub-links">
+        <a href="#">Paper</a>
+      </div>
+    </li>
 
-  <article class="paper">
-    <h3>Counterfactual Auditing of Cross-Cultural Variation in LLM-Generated Medical Advice</h3>
-    <p><strong>H. Yoo</strong> and G. Rosen</p>
-    <p class="venue">Stereacult at ACL, 2026</p>
-    <a class="button" href="#">Paper</a>
-  </article>
+    <li class="pub-item">
+      <div class="pub-main">
+        <div class="pub-title">
+          Counterfactual Auditing of Cross-Cultural Variation in LLM-Generated Medical Advice
+        </div>
+        <div class="pub-authors">
+          <strong>H. Yoo</strong> and G. Rosen
+        </div>
+        <div class="pub-venue">Stereacult Workshop at ACL 2026</div>
+      </div>
+      <div class="pub-links">
+        <a href="#">Paper</a>
+      </div>
+    </li>
 
-  <article class="paper">
-    <h3>Interpretable Metadata-Based Microbial Risk Prediction Using Large Language Models</h3>
-    <p><strong>H. Yoo</strong> and G. Rosen</p>
-    <p class="venue">ACM BCB, 2025</p>
-    <a class="button" href="#">Paper</a>
-  </article>
-
-  <article class="paper">
-    <h3>Can Large Language Models Classify and Generate Antimicrobial Resistance Genes?</h3>
-    <p><strong>H. Yoo</strong>, H. Shin, and G. Rosen</p>
-    <p class="venue">BioNLP at ACL, 2025</p>
-    <a class="button" href="#">Paper</a>
-  </article>
-
-  <article class="paper">
-    <h3>Enhancing Antimicrobial Drug Resistance Classification by Integrating Sequence-Based and Text-Based Representations</h3>
-    <p><strong>H. Yoo</strong>, B. Sokhansanj, and J. R. Brown</p>
-    <p class="venue">BioNLP at ACL, 2025</p>
-    <a class="button" href="#">Paper</a>
-  </article>
-
-  <article class="paper">
-    <h3>Exploring Adversarial Robustness in Classification Tasks using DNA Language Models</h3>
-    <p><strong>H. Yoo</strong>, H. Shin, K. Xu, and G. Rosen</p>
-    <p class="venue">GenBio at ICML, 2025</p>
-    <a class="button" href="#">Paper</a>
-  </article>
-
-  <article class="paper">
-    <h3>Predicting Microbial Ontology and Pathogen Risk from Environmental Metadata with Large Language Models</h3>
-    <p><strong>H. Yoo</strong> and G. Rosen</p>
-    <p class="venue">GenBio at ICML, 2025</p>
-    <a class="button" href="#">Paper</a>
-  </article>
+    <li class="pub-item">
+      <div class="pub-main">
+        <div class="pub-title">
+          Interpretable Metadata-Based Microbial Risk Prediction Using Large Language Models
+        </div>
+        <div class="pub-authors">
+          <strong>H. Yoo</strong> and G. Rosen
+        </div>
+        <div class="pub-venue">ACM BCB 2025</div>
+      </div>
+      <div class="pub-links">
+        <a href="#">Paper</a>
+      </div>
+    </li>
+  </ul>
 </section>
 
 </main>
