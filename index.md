@@ -15,10 +15,9 @@ title: Home
 
   <nav class="links">
     <a href="mailto:hyunwooyoo26@email.com">Email</a>
-    <a href="https://scholar.google.com/">Google Scholar</a>
-    <a href="https://github.com/username">GitHub</a>
-    <a href="https://linkedin.com/in/username">GitHub</a>
-    <a href="https://linkedin.com/in/username">LinkedIn</a>
+    <a href="https://scholar.google.com/citations?user=9Kcx2tEAAAAJ&hl">Google Scholar</a>
+    <a href="https://github.com/hyunwooyoo26">GitHub</a>    
+    <a href="https://www.linkedin.com/in/hyunwoo-yoo-0a2abb374/">LinkedIn</a>
   </nav>
 </aside>
 
