@@ -104,35 +104,35 @@ title: Home
     <strong>Cross-Modal Generative Augmentation for Multimodal Biological Classification</strong><br>
     <strong>H. Yoo</strong>, E. Soufleri, D. Ravikumar, and G. Rosen<br>
     <span class="venue">TMLR 2026</span>
-    <a class="button" href="#">Paper</a>
+    <a class="button" href="https://openreview.net/forum?id=bowYeHa8dn">Paper</a>
   </p>
 
   <p>
     <strong>CliniCAST: Benchmarking Acoustic Grounding and Text Dominance in Medical Triage</strong><br>
     K. Kim*, <strong>H. Yoo*</strong>, J. Choi, K. Kim, G. Rosen, and B. Suh<br>
     <span class="venue">ACL 2026 Findings · Equal contribution</span>
-    <a class="button" href="#">Paper</a>
+    <a class="button" href="https://aclanthology.org/2026.findings-acl.2056/">Paper</a>
   </p>
 
   <p>
     <strong>Visual Interference in Speech Evaluation: Cultural Asymmetry and Cross-Modal Bias in MLLMs</strong><br>
     K. Kim*, <strong>H. Yoo*</strong>, J. Choi, G. Rosen, and B. Suh<br>
     <span class="venue">ACL 2026 Findings · Equal contribution</span>
-    <a class="button" href="#">Paper</a>
+    <a class="button" href="https://aclanthology.org/2026.findings-acl.1362/">Paper</a>
   </p>
 
   <p>
-    <strong>When Demographic Sensitivity Isn't What It Seems: Baseline-Aware Counterfactual Audits for Clinical NLP</strong><br>
-    <strong>H. Yoo</strong><br>
-    <span class="venue">BioNLP Workshop at ACL 2026</span>
-    <a class="button" href="#">Paper</a>
+    <strong>DynamixSFT: Dynamic Mixture Optimization of Instruction Tuning Collections</strong><br>
+    H. Shin, L. Ji, X. Liu, Z. Yu, <strong>H. Yoo</strong>, Q. Chen, and Y. Gong<br>
+    <span class="venue">ACL 2026 Findings</span>
+    <a class="button" href="https://aclanthology.org/2026.findings-acl.1972">Paper</a>
   </p>
 
   <p>
     <strong>Interpretable Metadata-Based Microbial Risk Prediction Using Large Language Models</strong><br>
     <strong>H. Yoo</strong> and G. Rosen<br>
     <span class="venue">ACM BCB 2025</span>
-    <a class="button" href="#">Paper</a>
+    <a class="button" href="https://dl.acm.org/doi/10.1145/3765612.3767197">Paper</a>
   </p>
 </section>
 
