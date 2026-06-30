@@ -109,7 +109,7 @@ title: Home
 
   <p>
     <strong>CliniCAST: Benchmarking Acoustic Grounding and Text Dominance in Medical Triage</strong><br>
-    K. Kim*, <strong>H. Yoo*</strong>, J. Choi, G. Rosen, K. Kim, and B. Suh<br>
+    K. Kim*, <strong>H. Yoo*</strong>, J. Choi, K. Kim, G. Rosen, and B. Suh<br>
     <span class="venue">ACL 2026 Findings · Equal contribution</span>
     <a class="button" href="#">Paper</a>
   </p>
