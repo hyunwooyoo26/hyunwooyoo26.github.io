@@ -98,106 +98,42 @@ title: Home
 </section>
 
 <section>
-  <section>
   <h2>Selected Publications</h2>
 
-  <ul class="pub-list">
-    <li class="pub-item">
-      <div class="pub-main">
-        <div class="pub-title">
-          Cross-Modal Generative Augmentation for Multimodal Biological Classification
-        </div>
-        <div class="pub-authors">
-          <strong>H. Yoo</strong>, E. Soufleri, D. Ravikumar, and G. Rosen
-        </div>
-        <div class="pub-venue">TMLR 2026</div>
-      </div>
-      <div class="pub-links">
-        <a href="#">Paper</a>
-      </div>
-    </li>
+  <p>
+    <strong>Cross-Modal Generative Augmentation for Multimodal Biological Classification</strong><br>
+    <strong>H. Yoo</strong>, E. Soufleri, D. Ravikumar, and G. Rosen<br>
+    <span class="venue">TMLR 2026</span>
+    <a class="button" href="#">Paper</a>
+  </p>
 
-    <li class="pub-item">
-      <div class="pub-main">
-        <div class="pub-title">
-          CliniCAST: Benchmarking Acoustic Grounding and Text Dominance in Medical Triage
-        </div>
-        <div class="pub-authors">
-          K. Kim*, <strong>H. Yoo*</strong>, J. Choi, K. Kim, G. Rosen, and B. Suh
-        </div>
-        <div>
-          <span class="pub-venue">ACL 2026 Findings</span>
-          <span class="pub-badge">Equal contribution</span>
-        </div>
-      </div>
-      <div class="pub-links">
-        <a href="#">Paper</a>
-      </div>
-    </li>
+  <p>
+    <strong>CliniCAST: Benchmarking Acoustic Grounding and Text Dominance in Medical Triage</strong><br>
+    K. Kim*, <strong>H. Yoo*</strong>, J. Choi, G. Rosen, K. Kim, and B. Suh<br>
+    <span class="venue">ACL 2026 Findings · Equal contribution</span>
+    <a class="button" href="#">Paper</a>
+  </p>
 
-    <li class="pub-item">
-      <div class="pub-main">
-        <div class="pub-title">
-          Visual Interference in Speech Evaluation: Cultural Asymmetry and Cross-Modal Bias in MLLMs
-        </div>
-        <div class="pub-authors">
-          K. Kim*, <strong>H. Yoo*</strong>, J. Choi, G. Rosen, and B. Suh
-        </div>
-        <div>
-          <span class="pub-venue">ACL 2026 Findings</span>
-          <span class="pub-badge">Equal contribution</span>
-        </div>
-      </div>
-      <div class="pub-links">
-        <a href="#">Paper</a>
-      </div>
-    </li>
+  <p>
+    <strong>Visual Interference in Speech Evaluation: Cultural Asymmetry and Cross-Modal Bias in MLLMs</strong><br>
+    K. Kim*, <strong>H. Yoo*</strong>, J. Choi, G. Rosen, and B. Suh<br>
+    <span class="venue">ACL 2026 Findings · Equal contribution</span>
+    <a class="button" href="#">Paper</a>
+  </p>
 
-    <li class="pub-item">
-      <div class="pub-main">
-        <div class="pub-title">
-          When Demographic Sensitivity Isn't What It Seems: Baseline-Aware Counterfactual Audits for Clinical NLP
-        </div>
-        <div class="pub-authors">
-          <strong>H. Yoo</strong>
-        </div>
-        <div class="pub-venue">BioNLP Workshop at ACL 2026</div>
-      </div>
-      <div class="pub-links">
-        <a href="#">Paper</a>
-      </div>
-    </li>
+  <p>
+    <strong>When Demographic Sensitivity Isn't What It Seems: Baseline-Aware Counterfactual Audits for Clinical NLP</strong><br>
+    <strong>H. Yoo</strong><br>
+    <span class="venue">BioNLP Workshop at ACL 2026</span>
+    <a class="button" href="#">Paper</a>
+  </p>
 
-    <li class="pub-item">
-      <div class="pub-main">
-        <div class="pub-title">
-          Counterfactual Auditing of Cross-Cultural Variation in LLM-Generated Medical Advice
-        </div>
-        <div class="pub-authors">
-          <strong>H. Yoo</strong> and G. Rosen
-        </div>
-        <div class="pub-venue">Stereacult Workshop at ACL 2026</div>
-      </div>
-      <div class="pub-links">
-        <a href="#">Paper</a>
-      </div>
-    </li>
-
-    <li class="pub-item">
-      <div class="pub-main">
-        <div class="pub-title">
-          Interpretable Metadata-Based Microbial Risk Prediction Using Large Language Models
-        </div>
-        <div class="pub-authors">
-          <strong>H. Yoo</strong> and G. Rosen
-        </div>
-        <div class="pub-venue">ACM BCB 2025</div>
-      </div>
-      <div class="pub-links">
-        <a href="#">Paper</a>
-      </div>
-    </li>
-  </ul>
+  <p>
+    <strong>Interpretable Metadata-Based Microbial Risk Prediction Using Large Language Models</strong><br>
+    <strong>H. Yoo</strong> and G. Rosen<br>
+    <span class="venue">ACM BCB 2025</span>
+    <a class="button" href="#">Paper</a>
+  </p>
 </section>
 
 </main>
